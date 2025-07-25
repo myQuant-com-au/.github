@@ -6,7 +6,7 @@ It is a **Quantitative Library**, available as an **Excel** add-in (partners acc
 
 It has been developed in the spirit of **quality and users experience**. It is meant to be **reliable, easy and fast to use** for the business.
 
-It covers most of the feature used by traders, the **customization** and the quickness, they require. 
+It covers most of the features used by traders, the **customization** and the quickness, they require. 
 
 
 ### Scope
