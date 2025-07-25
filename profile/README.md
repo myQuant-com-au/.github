@@ -1,12 +1,34 @@
-myQuant provides a pricing tool for simple and complex financial products such as Bonds and Swaps. Usually these tools
-are reserved to investment banks. myQuant tries to bring this service to everyone, for free.
-Any great tool should come with a great documentation. I have written the User Guide, as clear and understandable as
-possible, so you could fully benefit from the features of myQuant. The most important point is the Parsing function to
-import Quotes from a text file. You also have a quick reminder of the instruments, and the description of each page of
-the calculator.
-myQuant doesn’t provide the Market Data. Which is usually quite expensive. You will need to have a data provider such
-as Reuters, Bloomberg and SuperDerivatives. Once you have the Market Data, you are ready to use myQuant.
-It is mandatory to accept the “Terms and Conditions” before using the website. You should remember that “Material on
-this website is provided for general information purposes only and your use of the material is at your own risk”, and also
-“myQuant does not accept any liability for any loss or damage”. myQuant is not associated with any financial
-institutions, data providers or other entities
+[![](https://myquant.com.au/pictures/banner.PNG)](https://myquant.com.au/pictures/banner.PNG)
+### 1 Presentation
+myQuant is the result of my **cumulated experience of 12 years in Fixed Income** working on Pricers directly with the Traders.
+
+It is a **Quantitative Library**, available as an **Excel** add-in (partners access) and as a **Web Application** (public access).
+
+It has been developed in the spirit of **quality and users experience**. It is meant to be **reliable, easy and fast to use** for the business.
+
+It covers most of the feature used by traders, the **customization** and the quickness, they require. 
+
+
+### 2 Scope
+myQuant covers all the aspects of Fixed Income:
+
+###### Curves and Volatility
+*	Bootstrapping of Interests Curve, OIS and IBOR, using Multi Curve Framework
+*	Bootstrapping of Australian Inflation Curve
+*	Fx Curve, and change of Collateral (in testing)
+*	Calibration of SABR Cube
+
+###### Swaps and Bonds
+*	Interest Rate Swap
+*	Domestic Basis Swap
+*	Asset Swap
+*	Bonds
+*	Cross Currency Swap (in development)
+
+###### Options
+*	Vanilla Option
+*	Swaption
+*	Cap and Floor (experimental)
+
+### 3 What is next
+myQuant is looking for **partners to use the Excel version**, to mature and develop new required features.
