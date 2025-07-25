@@ -34,4 +34,4 @@ myQuant covers all the aspects of Fixed Income:
 *	Cap and Floor (experimental)
 
 ### What is next?
-myQuant is looking for **partners to use the Excel version**, to mature and develop new required features.
+myQuant is looking for **partners to use the Excel version**, to enhance and develop new features.
