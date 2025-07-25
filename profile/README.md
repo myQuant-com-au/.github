@@ -33,5 +33,5 @@ myQuant covers all the aspects of Fixed Income:
 *	Swaption
 *	Cap and Floor (experimental)
 
-### 3 What is next
+### 3 What is next?
 myQuant is looking for **partners to use the Excel version**, to mature and develop new required features.
