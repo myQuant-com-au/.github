@@ -12,6 +12,9 @@ It covers most of the feature used by traders, the **customization** and the qui
 ### 2 Scope
 myQuant covers all the aspects of Fixed Income:
 
+###### Currencies
+*	AUD, CHF, EUR, GBP, JPY, NZD, and USD
+
 ###### Curves and Volatility
 *	Bootstrapping of Interests Curve, OIS and IBOR, using Multi Curve Framework
 *	Bootstrapping of Australian Inflation Curve
