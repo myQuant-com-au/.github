@@ -35,3 +35,18 @@ myQuant covers all the aspects of Fixed Income:
 
 ### What is next?
 myQuant is looking for **partners to use the Excel version**, to enhance and develop new features.
+
+
+[![](https://myquant.com.au/pictures/excel_portfolio.PNG)](https://myquant.com.au/pictures/excel_portfolio.PNG)
+
+[![](https://myquant.com.au/pictures/excel_curves.PNG)](https://myquant.com.au/pictures/excel_curves.PNG)
+
+[![](https://myquant.com.au/pictures/excel_synthetic_instruments.PNG)](https://myquant.com.au/pictures/excel_synthetic_instruments.PNG)
+
+[![](https://myquant.com.au/pictures/excel_bonds.PNG)](https://myquant.com.au/pictures/excel_bonds.PNG)
+
+[![](https://myquant.com.au/pictures/excel_forward_rates_chart.PNG)](https://myquant.com.au/pictures/excel_forward_rates_chart.PNG)
+
+[![](https://myquant.com.au/pictures/excel_inflation_chart.PNG)](https://myquant.com.au/pictures/excel_inflation_chart.PNG)
+
+
