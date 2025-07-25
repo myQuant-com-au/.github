@@ -45,8 +45,8 @@ myQuant is looking for **partners to use the Excel version**, to enhance and dev
 
 [![](https://myquant.com.au/pictures/excel_bonds.PNG)](https://myquant.com.au/pictures/excel_bonds.PNG)
 
+[![](https://myquant.com.au/pictures/excel_sabr_cube.PNG)](https://myquant.com.au/pictures/excel_sabr_cube.PNG)
+
 [![](https://myquant.com.au/pictures/excel_forward_rates_chart.PNG)](https://myquant.com.au/pictures/excel_forward_rates_chart.PNG)
 
 [![](https://myquant.com.au/pictures/excel_inflation_chart.PNG)](https://myquant.com.au/pictures/excel_inflation_chart.PNG)
-
-
