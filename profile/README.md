@@ -1,5 +1,5 @@
 [![](https://myquant.com.au/pictures/banner.PNG)](https://myquant.com.au/pictures/banner.PNG)
-###Presentation
+### Presentation
 myQuant is the result of my **cumulated experience of 12 years in Fixed Income** working on Pricers directly with the Traders.
 
 It is a **Quantitative Library**, available as an **Excel** add-in (partners access) and as a **Web Application** (public access).
@@ -9,7 +9,7 @@ It has been developed in the spirit of **quality and users experience**. It is m
 It covers most of the feature used by traders, the **customization** and the quickness, they require. 
 
 
-###Scope
+### Scope
 myQuant covers all the aspects of Fixed Income:
 
 ###### Currencies
@@ -33,5 +33,5 @@ myQuant covers all the aspects of Fixed Income:
 *	Swaption
 *	Cap and Floor (experimental)
 
-###What is next?
+### What is next?
 myQuant is looking for **partners to use the Excel version**, to mature and develop new required features.
